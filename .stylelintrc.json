@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-twbs-bootstrap/scss",
+    "stylelint-config-prettier"
+  ],
+  "rules": {
+    "scss/selector-no-redundant-nesting-selector": null
+  }
+}

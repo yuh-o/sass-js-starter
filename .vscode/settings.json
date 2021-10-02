@@ -1,0 +1,12 @@
+{
+  "liveServer.settings.port": 5501,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/dist": true
+  }
+}

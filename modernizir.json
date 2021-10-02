@@ -1,0 +1,20 @@
+{
+  "classPrefix": "",
+  "enableClasses": true,
+  "enableJSClass": false,
+  "scriptGlobalName": "window",
+  "usePrefixes": true,
+  "minify": false,
+  "options": [
+    "atRule",
+    "domPrefixes",
+    "load",
+    "mq",
+    "prefixed",
+    "prefixes",
+    "prefixedCSS",
+    "setClasses",
+    "testAllProps"
+  ],
+  "feature-detects": ["css/flexgap", "img/webp"]
+}
